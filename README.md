@@ -23,7 +23,11 @@ My first project with microverse
 
 ## Live Demo
 
+<<<<<<< HEAD
 [Live Demo Link](https://Theoneste1.github.io/microverseinc/)
+=======
+[Live Demo Link](https://goliviernation.github.io/microverseinc/)
+>>>>>>> fa2adb8 (Update README.md)
 
 ## Getting Started
 
@@ -56,4 +60,8 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
+<<<<<<< HEAD
 This project is [MIT](./MIT.md) licensed.
+=======
+This project is [MIT](./MIT.md) licensed.
+>>>>>>> fa2adb8 (Update README.md)
