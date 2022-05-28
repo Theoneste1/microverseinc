@@ -12,7 +12,7 @@ Major languages
 
 > The purpose of this project is just to show how far I'am in using Github tools by creating a hello Microverse project with linters.
 
-![screenshot](./Screenshot.png)
+![screenshot](./pic.png)
 
 My first project with microverse
 
@@ -23,7 +23,7 @@ My first project with microverse
 
 ## Live Demo
 
-[Live Demo Link](https://goliviernation.github.io/microverseinc/)
+[Live Demo Link](https://Theoneste1.github.io/microverseinc/)
 
 ## Getting Started
 
