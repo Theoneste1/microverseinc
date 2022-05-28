@@ -1,9 +1,9 @@
 h1 {
-  font-family: 'Helvetica', Arial, sans-serif;
-  font-size: 4em;
-  color: #052b41;
+  color: #0b1d27;
   position: fixed;
   top: 48%;
   left: 50%;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 4em;
   transform: translate(-50%, -50%);
 }
